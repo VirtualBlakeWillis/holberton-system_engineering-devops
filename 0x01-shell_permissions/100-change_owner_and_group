@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -r vincent . exec chgrp -r staff .
+chown -r vincent . exec {chgrp -r staff .}
