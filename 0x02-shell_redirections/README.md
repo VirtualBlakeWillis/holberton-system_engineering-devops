@@ -1,4 +1,4 @@
-kine 1
+This is my README and a great testing file!
 line 2
 line 3
 line 4
