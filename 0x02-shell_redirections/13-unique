@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -d --files0-from=F | uniq -u | wc -w
+sort | uniq -u
