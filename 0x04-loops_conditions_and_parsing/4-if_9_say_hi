@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# placeholder Comment
+# Loop through 10 times and print 'Best School' on the 9th loop, print 'Hi' then 'Best School'
 i=1
 while ((i<=10))
 do
