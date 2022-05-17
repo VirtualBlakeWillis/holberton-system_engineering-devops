@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Testing Playground!
+filename=coffee_1234.freqdist
+tmp=${filename#*_}
+echo $tmp
+num=${tmp%.*}
+echo $num

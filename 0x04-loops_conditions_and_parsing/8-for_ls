@@ -1,1 +1,10 @@
 #!/usr/bin/env bash
+#For each file, remove '[:digit:]-' from the front of a file name, if that file name applies.
+
+lsCMD="$(ls)" #ls stored in Variable 'lsCMD'
+
+for file in $lsCMD; #for each file in ls, preform these commands
+do 
+	echo "${file#*-}" #print entire file name, only after first -
+	
+done
