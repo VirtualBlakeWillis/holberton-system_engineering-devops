@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-# Sum FizzBuzz game
+# FizBuzz math game in shell script! Print numbers between 1-100.
+#	If disible by 3, print Fizz
+#	If disible by 5, print Buzz
+#	If disible by 15, print FizzBuzz
 for num in {1..100}
 do
 

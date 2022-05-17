@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# placeholder comment
+# Print 'Best School' 1- times, using while loop
 i=0
 while((i<10))
 do

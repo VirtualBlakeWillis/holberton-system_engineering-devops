@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Comment for 5!
+# Print 'Best School', except for: bad luck after #4 and good luck after #8
 i=1
 while ((i<=10))
 do
