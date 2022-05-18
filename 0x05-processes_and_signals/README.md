@@ -1,17 +1,17 @@
 Resources
 Read or watch:
 
-[Linux PID](http://www.linfo.org/pid.html)
-[Linux process](https://www.thegeekstuff.com/2012/03/linux-processes-environment/)
+[Linux PID](http://www.linfo.org/pid.html) \n
+[Linux process](https://www.thegeekstuff.com/2012/03/linux-processes-environment/) \n
 [Linux signal](https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/)
 
 ## man or help:
-ps
-pgrep
-pkill
-kill
-exit
-trap
+* ps
+* pgrep
+* pkill
+* kill
+* exit
+* trap
 
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
